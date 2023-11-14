@@ -1,5 +1,5 @@
 ## Hi there 👋
-## About Me:
+## About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,10 +10,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
-### Socials:
+### Socials
 
 
-### Tech Stack:
+### Tech Stack
 
 ### Github Stats
 
