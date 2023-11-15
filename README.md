@@ -15,6 +15,3 @@
 
 ### Tech Stack
 
-### Github Stats
-
-### 
